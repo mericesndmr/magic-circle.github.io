@@ -1,0 +1,35 @@
+body {
+    background:cadetblue;
+  }
+  .container {
+    text-align: center;
+  }
+  h1 {
+    color: #ecf0f1;
+    font-size: 3em;
+    font-family: monospace;
+  }
+  #circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background: #e74c3c;
+    margin: 40px auto 0;
+  }
+  
+  p {
+    display: inline-block;
+    color: b;
+    background-color: #f1c40f;
+    border: 1px solid #f1c40f;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 20px;
+    font-size: 1.3em;
+    text-transform: uppercase;
+    font-family: cursive;
+    font-weight: bold;
+  }
+
+
+

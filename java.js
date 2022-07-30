@@ -3,4 +3,4 @@ document.getElementById("circle").onclick=function() {
 }
 
 
-// document.getElementById metodu ile id özelliği belirttiğim elementin referansının alınmasını sağladım.
+// document.getElementById metodu ile id özelliği belirttiğim elementin referansının alınmasını sağladım
